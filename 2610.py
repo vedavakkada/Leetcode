@@ -23,4 +23,3 @@ class Solution:
                 res[i]+= [num]
         
         return res
-
