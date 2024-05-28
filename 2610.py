@@ -1,6 +1,5 @@
 class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
         freq = {}
         maxfreq = 1
         maxfreqnum = nums[0]
